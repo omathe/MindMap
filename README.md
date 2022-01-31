@@ -1,2 +1,2 @@
-# MindMap
+# mindmap
 Draw a mind map

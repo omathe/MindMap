@@ -1,2 +1,2 @@
-# diagram
-Draw diagram
+# mindmap
+Draw a mind map

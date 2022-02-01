@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.shape.Rectangle?>
+
+
+<BorderPane fx:id="borderPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fr.mathe.main.controller.MainController">
+   <top>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="29.0" onMouseClicked="#draw" stroke="BLACK" strokeType="INSIDE" width="39.0" BorderPane.alignment="CENTER" />
+   </top>
+</BorderPane>
